@@ -1,2 +1,3 @@
 # the_color_game
-![photo] (C:\Users\ZAHRA AMANLI\Pictures\Screenshots)
+** HTML, CSS, jQuery, JavaScript.
+tirjtitj4
