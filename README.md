@@ -1,5 +1,5 @@
 # the_color_game
-** HTML, CSS, jQuery, JavaScript.
+**HTML, CSS, jQuery, JavaScript.
 <br>
 Bu oyunun iki versiyası var: * asan və çətin.
 <br>
