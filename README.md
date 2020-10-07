@@ -1,9 +1,9 @@
-# the_color_game
-**HTML, CSS, jQuery, JavaScript.
+# The_color_game
+HTML, CSS, jQuery, JavaScript.
 <br>
-Bu oyunun iki versiyası var: * asan və çətin.
+Bu oyunun iki versiyası var: asan və çətin.
 <br>
-** RGB 
+RGB 
 ilə rəng verilir və seçimə görə üç və ya altı fərgli xanalar olur. Verilmiş RGB hansı xananın rəngi olduğun tapmaq lazımdır.
 <br>
 Bundan əlavə verilən rəngi də dəyişmək olur.
